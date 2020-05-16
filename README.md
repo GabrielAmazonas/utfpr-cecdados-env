@@ -16,4 +16,5 @@
 2.Clone este repositório
 
 3.Acesse a raíz da pasta do projeto `utfpr-cecdados-env` e Execute o comando: `docker-compose up`
+
 4.Acesse seus Jupyter Notebook através do seu browser de preferência, no endereço localhost:8888
